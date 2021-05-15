@@ -2,9 +2,9 @@
 
 
 
-Neste texto irei abordar os conceitos básicos para uso de um computador, desde o simples ligar um computador até usar a internet do celular \(até mesmo wi-fi\) no computador passando por conceitos de _hardware_ e _software_ e instalação dos programas mais comuns em no sistema operacional Windows.
+Neste ebook irei abordar os conceitos básicos para uso de um computador, desde o simples ligar um computador até usar a internet do celular \(até mesmo wi-fi\) no computador passando por conceitos de _hardware_ e _software_ e instalação dos programas mais comuns em no sistema operacional Windows.
 
-Porém, antes de iniciarmos os estudos, sugiro que aprenda um pouco sobre como organizar sua vida, seus estudos e outras tarefas etc, para isso tenho um ótimo texto em LINK.
+Porém, antes de iniciarmos os estudos, sugiro que aprenda um pouco sobre como organizar sua vida, seus estudos e outras tarefas etc, para isso tenho um ótimo texto em [Melhore sua vida, disposição, organização e produtividade com essas idéias e ferramentas](https://dev.to/arthurassuncao/melhore-sua-vida-disposicao-organizacao-e-produtividade-com-essas-ideias-e-ferramentas-2jo5).
 
 ## Índice
 
@@ -49,8 +49,8 @@ Porém, antes de iniciarmos os estudos, sugiro que aprenda um pouco sobre como o
    * [7.1 Conectar a uma rede Wi-fi](7.-conexao-wi-fi.md#7-1-conectar-a-uma-rede-wi-fi)
    * [7.2 Utilizar a internet do celular no computador](7.-conexao-wi-fi.md#7-2-utilizar-a-internet-do-celular-no-computador)
 8. [Utilizando e-mail](8.-utilizando-e-mail.md)
-   * [8.1 Principais provedores de e-mail](8.-utilizando-e-mail.md#8-1-criacao-de-e-mail-nos-principais-provedores)
-   * [8.2 Como enviar um e-mail](8.-utilizando-e-mail.md#8-2-dicas-de-como-enviar-e-mails)
+   * [8.1 Criação de e-mail nos principais provedores](8.-utilizando-e-mail.md#8-1-criacao-de-e-mail-nos-principais-provedores)
+   * [8.2 Dicas de como enviar e-mails](8.-utilizando-e-mail.md#8-2-dicas-de-como-enviar-e-mails)
 9. [Cursos](9.-cursos.md)
 10. [Referências](10.-referencias.md)
 
