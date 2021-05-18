@@ -1,3 +1,7 @@
+---
+description: 'Ebook criado por Arthur Assuncao, professor e desenvolvedor Front-end.'
+---
+
 # Introdução à Informática
 
 
