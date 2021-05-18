@@ -53,6 +53,7 @@ Porém, antes de iniciarmos os estudos, sugiro que aprenda um pouco sobre como o
 8. [Utilizando e-mail](8.-utilizando-e-mail.md)
    * [8.1 Criação de e-mail nos principais provedores](8.-utilizando-e-mail.md#8-1-criacao-de-e-mail-nos-principais-provedores)
    * [8.2 Dicas de como enviar e-mails](8.-utilizando-e-mail.md#8-2-dicas-de-como-enviar-e-mails)
-9. [Cursos](9.-cursos.md)
-10. [Referências](10.-referencias.md)
+9. [Extra: como elaborar trabalhos acadêmicos](9.-extra-como-elaborar-trabalhos-academicos.md)
+10. [Cursos](10.-cursos.md)
+11. [Referências](11.-referencias.md)
 

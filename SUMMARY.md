@@ -9,6 +9,7 @@
 * [6. Configuração de Impressora](6.-configuracao-de-impressora.md)
 * [7. Conexão Wi-Fi](7.-conexao-wi-fi.md)
 * [8. Utilizando e-mail](8.-utilizando-e-mail.md)
-* [9. Cursos](9.-cursos.md)
-* [10. Referências](10.-referencias.md)
+* [9. Extra: como elaborar trabalhos acadêmicos](9.-extra-como-elaborar-trabalhos-academicos.md)
+* [10. Cursos](10.-cursos.md)
+* [11. Referências](11.-referencias.md)
 
