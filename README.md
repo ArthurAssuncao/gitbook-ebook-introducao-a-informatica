@@ -4,8 +4,6 @@ description: 'Ebook criado por Arthur Assuncao, professor e desenvolvedor Front-
 
 # Introdução à Informática
 
-
-
 Neste ebook irei abordar os conceitos básicos para uso de um computador, desde o simples ligar um computador até usar a internet do celular \(até mesmo wi-fi\) no computador passando por conceitos de _hardware_ e _software_ e instalação dos programas mais comuns em no sistema operacional Windows.
 
 Porém, antes de iniciarmos os estudos, sugiro que aprenda um pouco sobre como organizar sua vida, seus estudos e outras tarefas etc, para isso tenho um ótimo texto em [Melhore sua vida, disposição, organização e produtividade com essas idéias e ferramentas](https://dev.to/arthurassuncao/melhore-sua-vida-disposicao-organizacao-e-produtividade-com-essas-ideias-e-ferramentas-2jo5).
